@@ -109,9 +109,9 @@ void setup3() {
 }
 
 void setup(){
-    setup1(); //Benchmark slow at end of setup, but fast at beginning, and back to fast again during loop
+    // setup1(); //Benchmark slow at end of setup, but fast at beginning, and back to fast again during loop
     // setup2(); //Remains fast throughout setup and loop, because of addition of enclosing scope brackets?
-    // setup3(); //Remains fast throughout setup and loop, because no CRC32 calculation was performed?
+    setup3(); //Remains fast throughout setup and loop, because no CRC32 calculation was performed?
 }
 
 // loop() runs over and over again, as quickly as it can execute.

@@ -1,0 +1,127 @@
+[2025-06-13 13:41:18.752] 0000001141 [app] INFO: Starting asset readback unit test (linenum 96)
+[2025-06-13 13:41:18.752] 0000001142 [app] INFO: ------------------------------------
+[2025-06-13 13:41:18.752] 0000001143 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:18.752] 0000001143 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:18.752] 0000001158 [mux] INFO: Closing mux channel 2
+[2025-06-13 13:41:18.995] 0000001398 [app] INFO: Read 166660 bytes from asset in 254 ms
+[2025-06-13 13:41:18.995] 0000001399 [app] INFO: ------------------------------------
+[2025-06-13 13:41:18.995] 0000001400 [app] INFO: Starting asset readback unit test (linenum 99)
+[2025-06-13 13:41:18.995] 0000001401 [app] INFO: ------------------------------------
+[2025-06-13 13:41:18.995] 0000001401 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:18.995] 0000001402 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:19.235] 0000001642 [app] INFO: Read 166660 bytes from asset in 240 ms
+[2025-06-13 13:41:19.235] 0000001642 [app] INFO: ------------------------------------
+[2025-06-13 13:41:19.235] 0000001643 [app] INFO: CRC32 of BossApp.bin is 0x12345678
+[2025-06-13 13:41:19.235] 0000001644 [app] INFO: Starting asset readback unit test (linenum 108)
+[2025-06-13 13:41:19.235] 0000001645 [app] INFO: ------------------------------------
+[2025-06-13 13:41:19.235] 0000001645 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:19.235] 0000001646 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:19.487] 0000001892 [app] INFO: Read 166660 bytes from asset in 246 ms
+[2025-06-13 13:41:19.487] 0000001892 [app] INFO: ------------------------------------
+[2025-06-13 13:41:20.486] 0000002893 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:20.486] 0000002894 [app] INFO: ------------------------------------
+[2025-06-13 13:41:20.486] 0000002895 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:20.486] 0000002895 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:20.720] 0000003129 [app] INFO: Read 166660 bytes from asset in 234 ms
+[2025-06-13 13:41:20.720] 0000003130 [app] INFO: ------------------------------------
+[2025-06-13 13:41:20.830] 0000003237 [ncp.client] INFO: Using internal SIM card
+[2025-06-13 13:41:20.875] 0000003280 [mux] INFO: Mux channel 1 already opened
+[2025-06-13 13:41:20.930] 0000003338 [mux] INFO: Opening mux channel 2
+[2025-06-13 13:41:21.728] 0000004131 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:21.728] 0000004132 [app] INFO: ------------------------------------
+[2025-06-13 13:41:21.728] 0000004133 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:21.728] 0000004133 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:21.964] 0000004367 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:21.964] 0000004368 [app] INFO: ------------------------------------
+[2025-06-13 13:41:22.965] 0000005368 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:22.965] 0000005369 [app] INFO: ------------------------------------
+[2025-06-13 13:41:22.965] 0000005370 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:22.965] 0000005371 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:23.198] 0000005604 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:23.198] 0000005605 [app] INFO: ------------------------------------
+[2025-06-13 13:41:24.202] 0000006605 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:24.202] 0000006606 [app] INFO: ------------------------------------
+[2025-06-13 13:41:24.202] 0000006607 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:24.202] 0000006607 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:24.439] 0000006841 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:24.439] 0000006842 [app] INFO: ------------------------------------
+[2025-06-13 13:41:25.439] 0000007842 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:25.439] 0000007843 [app] INFO: ------------------------------------
+[2025-06-13 13:41:25.439] 0000007844 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:25.439] 0000007844 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:25.669] 0000008078 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:25.669] 0000008079 [app] INFO: ------------------------------------
+[2025-06-13 13:41:26.676] 0000009079 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:26.676] 0000009081 [app] INFO: ------------------------------------
+[2025-06-13 13:41:26.676] 0000009081 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:26.676] 0000009082 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:26.910] 0000009315 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:26.910] 0000009316 [app] INFO: ------------------------------------
+[2025-06-13 13:41:27.911] 0000010317 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:27.911] 0000010318 [app] INFO: ------------------------------------
+[2025-06-13 13:41:27.911] 0000010319 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:27.911] 0000010319 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:28.148] 0000010553 [app] INFO: Read 166660 bytes from asset in 234 ms
+[2025-06-13 13:41:28.148] 0000010553 [app] INFO: ------------------------------------
+[2025-06-13 13:41:29.149] 0000011554 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:29.149] 0000011555 [app] INFO: ------------------------------------
+[2025-06-13 13:41:29.149] 0000011556 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:29.149] 0000011556 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:29.239] 0000011647 [system.nm] INFO: State changed: IFACE_UP -> IFACE_LINK_UP
+[2025-06-13 13:41:29.239] 0000011650 [system.nm] INFO: State changed: IFACE_LINK_UP -> IP_CONFIGURED
+[2025-06-13 13:41:29.298] 0000011710 [system] INFO: Cloud: connecting
+[2025-06-13 13:41:29.309] 0000011715 [system] INFO: Cloud socket connected
+[2025-06-13 13:41:29.309] 0000011716 [comm.protocol.handshake] INFO: Establish secure connection
+[2025-06-13 13:41:29.309] 0000011721 [comm.dtls] INFO: session has 0 uses
+[2025-06-13 13:41:29.328] 0000011740 [comm.dtls] INFO: (CMPL,RENEG,NO_SESS,ERR) restoreStatus=0
+[2025-06-13 13:41:29.328] 0000011741 [comm.dtls] INFO: out_ctr 0,1,0,0,0,0,2,244, next_coap_id=a71
+[2025-06-13 13:41:29.339] 0000011742 [comm.dtls] INFO: restored session from persisted session data. next_msg_id=2673
+[2025-06-13 13:41:29.339] 0000011743 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 2
+[2025-06-13 13:41:29.489] 0000011897 [app] INFO: Read 166660 bytes from asset in 340 ms
+[2025-06-13 13:41:29.489] 0000011898 [app] INFO: ------------------------------------
+[2025-06-13 13:41:29.649] 0000012052 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:29.649] 0000012053 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 3
+[2025-06-13 13:41:29.649] 0000012053 [comm.protocol.handshake] INFO: Sending HELLO message
+[2025-06-13 13:41:29.768] 0000012175 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:29.768] 0000012176 [comm.protocol.handshake] INFO: Handshake completed
+[2025-06-13 13:41:29.768] 0000012177 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:29.768] 0000012178 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 3
+[2025-06-13 13:41:30.009] 0000012415 [comm.protocol] INFO: Sending subscriptions
+[2025-06-13 13:41:30.119] 0000012524 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:30.359] 0000012766 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 3
+[2025-06-13 13:41:30.359] 0000012767 [comm.protocol] INFO: Received TIME response: 1749832889
+[2025-06-13 13:41:30.359] 0000012769 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:30.359] 0000012770 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 3
+[2025-06-13 13:41:30.359] 0000012771 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 4
+[2025-06-13 13:41:30.369] 0000012772 [comm.dtls] INFO: session cmd (CLS,DIS,MOV,LOD,SAV): 3
+[2025-06-13 13:41:30.469] 0000012872 [system] INFO: Cloud connected
+[2025-06-13 13:41:30.489] 0000012899 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:30.489] 0000012901 [app] INFO: ------------------------------------
+[2025-06-13 13:41:30.489] 0000012901 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:30.489] 0000012901 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:30.734] 0000013138 [app] INFO: Read 166660 bytes from asset in 236 ms
+[2025-06-13 13:41:30.734] 0000013139 [app] INFO: ------------------------------------
+[2025-06-13 13:41:31.736] 0000014139 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:31.736] 0000014140 [app] INFO: ------------------------------------
+[2025-06-13 13:41:31.736] 0000014141 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:31.736] 0000014142 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:31.972] 0000014376 [app] INFO: Read 166660 bytes from asset in 234 ms
+[2025-06-13 13:41:31.972] 0000014376 [app] INFO: ------------------------------------
+[2025-06-13 13:41:32.967] 0000015377 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:32.967] 0000015378 [app] INFO: ------------------------------------
+[2025-06-13 13:41:32.967] 0000015379 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:32.977] 0000015379 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:33.208] 0000015613 [app] INFO: Read 166660 bytes from asset in 234 ms
+[2025-06-13 13:41:33.208] 0000015613 [app] INFO: ------------------------------------
+[2025-06-13 13:41:34.210] 0000016614 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:34.210] 0000016615 [app] INFO: ------------------------------------
+[2025-06-13 13:41:34.210] 0000016616 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:34.210] 0000016616 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:34.447] 0000016850 [app] INFO: Read 166660 bytes from asset in 233 ms
+[2025-06-13 13:41:34.447] 0000016851 [app] INFO: ------------------------------------
+[2025-06-13 13:41:35.447] 0000017851 [app] INFO: Starting asset readback unit test (linenum 123)
+[2025-06-13 13:41:35.447] 0000017852 [app] INFO: ------------------------------------
+[2025-06-13 13:41:35.447] 0000017853 [app] INFO: Asset name: BossApp.bin
+[2025-06-13 13:41:35.450] 0000017854 [app] INFO: Asset size: 166660 bytes
+[2025-06-13 13:41:35.680] 0000018088 [app] INFO: Read 166660 bytes from asset in 234 ms
+[2025-06-13 13:41:35.680] 0000018088 [app] INFO: ------------------------------------
